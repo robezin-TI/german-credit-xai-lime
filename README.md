@@ -90,8 +90,9 @@ python src/model_lime_explainer.py
 ```
 
 5. Verifique os resultados:
-    ° Gráfico: images/lime_explanation.png
-    ° Versão interativa: images/lime_explanation.html
+
+- Gráfico: images/lime_explanation.png
+- Versão interativa: images/lime_explanation.html
 
 # 📁 Estrutura do Projeto
 
@@ -110,9 +111,9 @@ german-credit-xai-lime/
 ```
 
 ## 📚 Referências
-  ° Ribeiro et al. (2016) – "Why Should I Trust You?"
-  ° Dataset: Statlog (German Credit)
-  ° LIME Docs: https://marcotcr.github.io/lime/tutorials.html
+- Ribeiro et al. (2016) – "Why Should I Trust You?"
+- Dataset: Statlog (German Credit)
+- LIME Docs: https://marcotcr.github.io/lime/tutorials.html
 
 ## 👨‍🎓 Sobre
 Projeto desenvolvido para a disciplina Explainable AI (XAI), com foco em interpretabilidade de modelos preditivos aplicados à concessão de crédito bancário.
