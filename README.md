@@ -71,5 +71,30 @@ Abaixo está um gráfico real gerado pelo projeto, indicando os fatores que infl
 ```bash
 git clone https://github.com/seu-usuario/german-credit-xai-lime.git
 cd german-credit-xai-lime
+```
+
+2. (Opcional) Crie um ambiente virtual:
+```bash
+python -m venv venv
+source venv/bin/activate  # Windows: venv\Scripts\activate
+```
+
+3. Instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+
+4. Execute o script principal:
+```bash
+python src/model_lime_explainer.py
+```
+
+5. Verifique os resultados:
+   
+  ° Gráfico: images/lime_explanation.png
+
+  ° Versão interativa: images/lime_explanation.html
+
+
 
 
