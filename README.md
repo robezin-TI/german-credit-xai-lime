@@ -65,7 +65,7 @@ Abaixo está um gráfico real gerado pelo projeto, indicando os fatores que infl
 
 
 💡 Veja também a versão interativa:
-[Visualizar Explicação Interativa com LIME](images/lime_explanation_friendly.html)
+[Visualizar Explicação Interativa com LIME](images/lime_explanation.html)
 ---
 
 ## ▶️ Como Executar o Projeto
